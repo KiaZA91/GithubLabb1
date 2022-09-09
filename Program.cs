@@ -7,3 +7,7 @@ Console.WriteLine("kia Signerat");
 
 Console.WriteLine("tack för signerring ( pusha tillbaka till lokal dok");
 
+
+Console.WriteLine("test");
+
+Console.WriteLine("push c£ to git test 2 ");
