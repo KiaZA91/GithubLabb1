@@ -11,4 +11,4 @@ Console.WriteLine("test");
 
 Console.WriteLine("push c£ to git test 2 ");
 
-
+Console.WriteLine("pushar till git test 2 / 2");
